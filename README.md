@@ -1,2 +1,2 @@
-# x86_32
-Putting all my x86_32 attempts in one place.
+# x86
+Putting all my x86 assembly attempts in one place.
